@@ -327,6 +327,7 @@ Date - 11/12/2021
 - [x] want to create some usefull tool (if possible) ✅
 	- careating nuclei tamplates for hardcoded scanning.
 	- public my tool on github. 😍
+	- create private project "android nuclei tamplates"
 - [x] try to do some manual recon on BugBounty program / JS recon
 - [x] leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
 - [x] try to read 1 intrigity-blog Bug-Bytes per day
