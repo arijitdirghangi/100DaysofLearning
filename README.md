@@ -13,7 +13,7 @@ Date - 28/11/2021
 - [x] #try to do some manual recon on BugBounty program / JS recon
 - [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc.. 
 - [x] #try to read 1 intrigity-blog Bug-Bytes per day ✅
-	    - https://blog.intigriti.com/2021/11/17/bug-bytes-147-from-wont-fix-to-100k-bounties-http-header-smuggling-chaosdb/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_147_from_wont_fix_to_100k_bounties_http_header_smuggling_chaosdb&utm_term=2021-11-28 (Http Request Sumggling, and Awesome Videos)
+	- https://blog.intigriti.com/2021/11/17/bug-bytes-147-from-wont-fix-to-100k-bounties-http-header-smuggling-chaosdb/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_147_from_wont_fix_to_100k_bounties_http_header_smuggling_chaosdb&utm_term=2021-11-28 (Http Request Sumggling, and Awesome Videos)
 
 - [x] #try to read payload artirst weekly blog ✅ Time 10:00 - 10:24
 	- http://news.bugbountyhunting.com/issues/predictable-mongodb-ids-rce-through-race-conditions-and-more-878246
