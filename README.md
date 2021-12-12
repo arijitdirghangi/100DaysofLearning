@@ -1,6 +1,8 @@
-# 100DaysofLearning
+# 100DaysofLearning Daily Checklist - ✅
 
-Daily Checklist - ✅
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 
 Date - 28/11/2021 
 
