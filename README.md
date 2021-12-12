@@ -18,6 +18,7 @@ Date - 28/11/2021
 - [x] #try to read payload artirst weekly blog ✅ Time 10:00 - 10:24
 	- https://mail.google.com/mail/u/1/#inbox/FMfcgzGlksFnlgnVJWrnfxBvLnPhJQCT
 		- Account Takeover using insecure deep-link
+			- https://securityflow.io/impact-of-an-insecure-deep-link/?utm_campaign=BugBountyHunting%20Snapshots&utm_medium=email&utm_source=Revue%20newsletter
 		- Security Tools
 			- ParamsExtractor - > Burp extension
 			- cookiemonster
