@@ -1,7 +1,7 @@
 # 100DaysofLearning Daily Checklist - ✅
 
 
-i create this repo inspired by @AnubhavSingh_(https://github.com/anubhavsinghhacker) and @vish_hal(https://github.com/vish-hal/) bhai, what i do everyday i will update daily on my github repo #100DaysofLearning
+i create this repo inspired by @AnubhavSingh_(https://github.com/anubhavsinghhacker) and @vish_hal(https://github.com/vish-hal/) bhai, what i do everyday i will update daily on my github repo.
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
