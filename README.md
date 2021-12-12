@@ -337,3 +337,27 @@ Date - 11/12/2021
 - [x] read disclosed report
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 12/12/2021
+
+- [x] #solve tryhackme room ✅ 8:00AM - 12:00PM 
+	- https://tryhackme.com/room/introtoshells 
+	- https://tryhackme.com/room/commonlinuxprivesc | 12:00PM - 1:09PM | Task 4 Compelete | Compeleted On 10:18PM
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible) ✅
+	- create 100DaysofLearning GitHub project and update all Daily Checklist. 5:00AM - 7:00AM
+	- working android nuclei for hardcoded scan. | 6:00PM - 7:00PM | 11:30PM - 1:28PM
+
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
