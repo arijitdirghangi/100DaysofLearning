@@ -16,7 +16,7 @@ Date - 28/11/2021
 	    - https://blog.intigriti.com/2021/11/17/bug-bytes-147-from-wont-fix-to-100k-bounties-http-header-smuggling-chaosdb/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_147_from_wont_fix_to_100k_bounties_http_header_smuggling_chaosdb&utm_term=2021-11-28 (Http Request Sumggling, and Awesome Videos)
 
 - [x] #try to read payload artirst weekly blog ✅ Time 10:00 - 10:24
-	- https://mail.google.com/mail/u/1/#inbox/FMfcgzGlksFnlgnVJWrnfxBvLnPhJQCT
+	- http://news.bugbountyhunting.com/issues/predictable-mongodb-ids-rce-through-race-conditions-and-more-878246
 		- Account Takeover using insecure deep-link
 			- https://securityflow.io/impact-of-an-insecure-deep-link/?utm_campaign=BugBountyHunting%20Snapshots&utm_medium=email&utm_source=Revue%20newsletter
 		- Security Tools
