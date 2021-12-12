@@ -270,7 +270,7 @@ Bypasses
 
 - [x] #want to create some usefull tool (if possible) ✅
 - [x] #try to do some manual recon on BugBounty program / JS recon ✅
-	-www.bugbountytranning.com (recon challenge)
+	- www.bugbountytranning.com (recon challenge)
 
 - [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
 - [x] #try to read 1 intrigity-blog Bug-Bytes per day
