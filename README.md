@@ -427,7 +427,7 @@ Date - 13/12/2021
 - [x] #try to read anurag sr news latter
 - [x] #try to daily hunt on "fastfoodhacking" ✅
 	- Found something intersting . 
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f
 	- https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-%28cve-2019-17003%29 (did not understand very well)
 	- https://securityflow.io/impact-of-an-insecure-deep-link/
