@@ -420,13 +420,13 @@ Date - 13/12/2021
 - [x] #want to create some usefull tool (if possible)
 - [x] #try to do some manual recon on BugBounty program / JS recon
 - [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc.. 
-		- learned something abount jquary
+	- learned something abount jquary
 
 - [x] #try to read 1 intrigity-blog Bug-Bytes per day
 - [x] #try to read payload artirst weekly blog 
 - [x] #try to read anurag sr news latter
 - [x] #try to daily hunt on "fastfoodhacking" ✅
-		- Found something intersting . 
+	- Found something intersting . 
 - [x] #read disclosed report
 	- https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f
 	- https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-%28cve-2019-17003%29 (did not understand very well)
