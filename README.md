@@ -445,7 +445,7 @@ Date - 14/12/2021
 - [x] #want to create some usefull tool (if possible)
 - [x] #try to do some manual recon on BugBounty program / JS recon
 - [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  ✅
-	- learned something abount jquary 
+	- learned something abount jquary (CVE-2020-11023)
 
 - [x] #try to read 1 intrigity-blog Bug-Bytes per day
 - [x] #try to read payload artirst weekly blog 
