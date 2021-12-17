@@ -8,7 +8,8 @@ i create this repo inspired by @AnubhavSingh_(https://github.com/anubhavsinghhac
 
 Date - 28/11/2021 
 
-#solve tryhackme room - (1 tyrhackme room solve - john) ✅
+- [x] #solve tryhackme room 
+	- (1 tyrhackme room solve - john) ✅
 - [x] #read zseano print book (Toady Read Page-No 11)✅ Time - 7:24
 - [x] #read firstblood1/2 Disclosed report
 - [x] #want to create some usefull tool (if possible) 
