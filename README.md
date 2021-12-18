@@ -514,7 +514,7 @@ Date - 17/12/2021
 	- Data-link Layer
 - [x] #read disclosed report ✅
 	- https://payatu.com/blog/prateek.thakare/broken-access-control
-	- https://hackerone.com/reports/414101
+	- https://hackerone.com/reports/414101 (Vulnerabilities in exported activity WebView)
 	- https://infosecwriteups.com/super-admin-panel-without-credentials-c2022a23bb35
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
