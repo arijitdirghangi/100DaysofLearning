@@ -540,3 +540,25 @@ Date - 18/12/2021
 	- https://medium.com/@thedarkwayg/bypass-authentication-1bfab09332fe - :/
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 19/12/2021
+
+- [x] #solve tryhackme room ✅
+	- one question only.
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://medium.com/@thedarkwayg/how-i-found-my-first-xss-bug-96fb8e85a24c (open-redirect to reflected xss)
+	- https://infosecwriteups.com/accidental-bug-leads-to-google-honorable-mentions-7dad9eecbd7f (isko luck bolte hai)
+	- https://m7-arman.medium.com/zero-click-to-account-takeover-d764e12bee4b (Hacker Needs an Eagle-Eye)
+	- https://hackerone.com/reports/1379297 (reflected xss in e.mail.ru)
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
