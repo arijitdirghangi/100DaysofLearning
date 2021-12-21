@@ -562,3 +562,46 @@ Date - 19/12/2021
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+- [x] #solve tryhackme room ✅
+	- one question only.
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report
+	- https://infosecwriteups.com/an-interesting-account-takeover-3a33f42d609d (An Interesting Account Takeover!!) (vulnerability found on password reset-funcation)
+		- when user try reset passwd 
+			- USER must enter a valid Profile-Id
+				- Then guy found "state" parameter (if Profile ID is valid)
+			- Then password reset link is sent to the Users registered E-mail.
+				- Ex- (https://example.com/php/login_or_password_forgotten?k=789c0dc8610a80200c06d0bbec049bc9d26f870921834192a4ffa2bbd7fbf90a029e810c9adeea98a5753287a844e16555b1016150bfafc3cfbaf94eff2450e494a2e640f67ebc89137aade927d25a020ab2535ab4b5c9dc4fd1) 
+			- He check this token on CyberChef
+				- Token (789c0dc8610a80200c06d0bbec049bc9d26f870921834192a4ffa2bbd7fbf90a029e810c9adeea98a5753287a844e16555b1016150bfafc3cfbaf94eff2450e494a2e640f67ebc89137aade927d25a020ab2535ab4b5c9dc4fd1)
+				- decrypts back to (Encoded Mthods are -  Zlib-deflated and Hex)
+					- “a:2:{s:9:”timestamp”;i:1614104013;s:10:”profile_id”;s:8:”40884692";}”
+			- he create another token
+				- Token
+					- 789c0dc8510a85201005d0bdcc0ac6f25da6eb62427806034992fe457bb7df93b9f0e9dc28c36be923d726c919107ec0aa40ea0c4a69f775f85976ffcb2746891a610693f44ebe171387
+			- he try cratf LINK (BUT link doesn't work) - (beacuse of token length)
+			- he asked question on reddit (he found some solution)
+				- what he found
+					- Zlib includes an ADLER32 checksum if you use the Adler-32_Checksum() function after inflating you get BC89137A,
+						- This is the first Token (where checksum is present)
+							- 789c0dc8610a80200c06d0bbec049bc9d26f870921834192a4ffa2bbd7fbf90a029e810c9adeea98a5753287a844e16555b1016150bfafc3cfbaf94eff2450e494a2e640f67ebc89137aade927d25a020ab2535ab4b5c9dc4fd1 (here you can find checksum)
+						- Secound Token 
+							- 789c0dc8510a85201005d0bdcc0ac6f25da6eb62427806034992fe457bb7df93b9f0e9dc28c36be923d726c919107ec0aa40ea0c4a69f775f85976ffcb2746891a610693f44ebe171387 (there is no checksum) 
+				- he also noticed that this checksum is presend in first token.
+			- Now he solve length issue.
+			- Then he found some endpoint on JS file.
+			- He try Brute Force that endpoint (what is added after checksum  she found)
+			- Then BOOM (:)		
+
+	- https://blog.0iq.me/ (realy awesome Writeup or Blog for BugBounty )
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
