@@ -573,7 +573,7 @@ Date - 19/12/2021
 - [x] #try to read payload artirst weekly blog 
 - [x] #try to read anurag sr news latter
 - [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- https://infosecwriteups.com/an-interesting-account-takeover-3a33f42d609d (An Interesting Account Takeover!!) (vulnerability found on password reset-funcation)
 		- when user try reset passwd 
 			- USER must enter a valid Profile-Id
@@ -618,7 +618,7 @@ Date - 21/12/2021
 - [x] #try to read payload artirst weekly blog 
 - [x] #try to read anurag sr news latter
 - [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- https://medium.com/@jawadmahdi/how-to-hunt-on-host-based-bug-bounty-program-f8f66a6c535b (How to hunt on HOST based Bug Bounty Program?)-(Given IP-Range)
 	- https://blog.pentesterlab.com/a-strategy-to-land-your-first-pentest-job-25209a351689 (Being good in one subject is better than average in everything.)
 
