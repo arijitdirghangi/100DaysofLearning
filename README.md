@@ -562,6 +562,8 @@ Date - 19/12/2021
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 20/12/2021
+
 - [x] #solve tryhackme room ✅
 	- one question only.
 - [x] #read zseano print book
@@ -663,4 +665,27 @@ Date - 23/12/2021
 	- https://twitter.com/tuhin1729_/status/1437471718142976007?s=20
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 24/12/2021
+
+
+- [x] #solve tryhackme room ✅
+	- one question only. 
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon ✅
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://hackerone.com/reports/92251 (Issue with password change)-(password reset link is not expired and user also not notified)
+	- https://hackerone.com/reports/38343(Issue with password change)-(user not notified)
+	- https://hackerone.com/reports/315512(No security impact ) 🤷‍♂️
+	- https://hackerone.com/reports/809 (Not understand well)
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 
