@@ -728,3 +728,23 @@ Date - 27/12/2021
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 28/12/2021
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book (Toady Read Page-No 18 - 20 )✅ Time - 8:30 10:20
+- [x] #read Bug Bounty Bootcamp by ( vickie li) ✅ 
+	- chapter one (page 1-3)
+- [x] #read firstblood1/2 Disclosed report 
+- [x] #want to create some usefull tool (if possible) ✅
+	- add some regexs my nuclei templete
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- Offensive Analysis of Android Application by @RajaNagori7 (Video - https://youtu.be/0BQIgzf9q-I)
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
