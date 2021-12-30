@@ -748,3 +748,51 @@ Date - 28/12/2021
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 29/12/2021
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report ✅
+	- https://www.bugbountyhunter.com/hackevents/report?id=273 (Reflected XSS on /login.php using the GET paramter 'goto')-(Payload are awesome)
+		- Payload: iffu"><scr<script>ipt>confirm`1`</scr</script>ipt><" - 👌
+			- <script> Tag are filtered that why he putting payload - <src<script>ipt> - when middle script is removed that become another "script" Tag.
+				- https://stackoverflow.com/questions/1474185/what-does-this-mean-document-writescript (this is another example)
+
+	- https://www.bugbountyhunter.com/hackevents/report?id=120 (Stored XSS on /drpanel/drapi/query.php?aptid)
+	- https://www.bugbountyhunter.com/hackevents/report?id=126 ( Open Redirect /drpanel/logout.php)
+		- Payload: /\/www.evil.com
+	- https://www.bugbountyhunter.com/hackevents/report?id=258 (Reflected XSS on /login.php using ref parameter)
+		- Payload: j%0aava%0ascr%0aipt:onerror=prompt;throw%20document.cookie - 👌
+			- OutPut - > https://gchq.github.io/CyberChef/#recipe=URL_Decode()&input=aiUwYWF2YSUwYXNjciUwYWlwdDpvbmVycm9yPXByb21wdDt0aHJvdyUyMGRvY3VtZW50LmNvb2tpZQ
+
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #watch ansh sir video ✅
+	- 15-31-owasp-top-10-introduction-to-cross-site-scripting
+
+- [x] #read disclosed report
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 30/12/2021
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible) ✅
+	- check every regex in my nuclei work properly or not .
+	- checking is completed.  
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
