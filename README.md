@@ -866,6 +866,26 @@ Date - 3/1/2022
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 4/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon ✅
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- password reset poisen by AnugrahSR(https://twitter.com/cyph3r_asr) - YouTube(https://youtu.be/JTrXOS8N9W0)
+- [x] #watch dheeraj sir seassion [Cli Compromise detect] ✅
+- [x] #learn python ✅
+	- using python how to make Http Request.
+	- using different method.
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 				
 				
