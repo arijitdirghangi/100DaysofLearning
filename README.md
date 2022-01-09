@@ -887,5 +887,85 @@ Date - 4/1/2022
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 5/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon ✅
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- Email verificaton bypass - https://youtu.be/TR9zYu1jnGU
+- [x] #learn python ✅
+	
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 6/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon ✅
+	- reported bug. ✅
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 7/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon ✅
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://www.cyberick.com//post/open-redirect-and-its-bypasses
+- [x] #learn python ✅
+	- classes and object
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 8/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon ✅
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day ✅
+	- https://blog.intigriti.com/2021/11/03/bug-bytes-145-how-to-make-a-million-in-4-years-cookiemonster-threats-to-ci-cd-pipelines/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_145_how_to_make_a_million_in_4_years_cookiemonster_threats_to_ci_cd_pipelines&utm_term=2022-01-01
+		- Intersting i found 
+			- Damn Vulnerable NodeJS Application (https://github.com/effortlessdevsec/ninjasworkout)
+			- Enumerating Services in AWS Accounts in an Anonymous and Unauthenticated Manner (https://sidechannel.blog/en/enumerating-services-in-aws-accounts-in-an-anonymous-and-unauthenticated-manner/index.html)
+			- Defeating Android Certificate Pinning with Frida & frida-android-unpinning (https://httptoolkit.tech/blog/frida-certificate-pinning/)
+			- CookieMonster (https://github.com/iangcarroll/cookiemonster/)
+			- jolokia-exploitation-toolkit (JET) (https://github.com/laluka/jolokia-exploitation-toolkit)
+
+- [x] #try to read payload artirst weekly blog
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- Prototype Pollution by @Dheerajmadhukar (https://youtu.be/pjPz-12LYQI)
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
 				
