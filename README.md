@@ -967,5 +967,32 @@ Date - 8/1/2022
 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-				
+
+Date - 9/1/2022
+
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day ✅
+	- https://blog.intigriti.com/2021/12/08/bug-bytes-150-cms-wordlists-lesser-known-python-bugs-containers-learning-path/?utm_source=newsletter&utm_medium=email&utm_campaign=bug_bytes_150_cms_wordlists_lesser_known_python_vulnerabilities_containers_learning_path&utm_term=2022-01-01
+
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://www.kitploit.com/2021/12/top-20-most-popular-hacking-tools-in.html?m=1
+		- https://github.com/budtmo/docker-android (for me intersting)
+	- https://www.p1boom.com/2022/01/how-to-find-your-first-cyber-security-internship.html.html
+	- https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d	
+	- https://infosecwriteups.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4 (This is awesome)
+	- https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc
+	- https://medium.com/@sarafsaransh321/the-password-bypass-leads-to-full-account-takeover-9aefa7e3a9dd
+	- https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 				
