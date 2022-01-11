@@ -970,7 +970,6 @@ Date - 8/1/2022
 
 Date - 9/1/2022
 
-
 - [x] #solve tryhackme room
 - [x] #read zseano print book
 - [x] #read firstblood1/2 Disclosed report
@@ -995,4 +994,22 @@ Date - 9/1/2022
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-				
+Date - 10/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon ✅
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://medium.com/@arthbajpai277/hello-everyone-my-name-is-arth-bajpai-im-from-lucknow-india-and-this-is-my-first-writeup-2ec6a54226c5
+	- watch dheeraj sir open security [DevSecOps] Session
+	- Writing our own nuclei templete {https://youtu.be/vefj0tkTWL4}
+	
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+			
