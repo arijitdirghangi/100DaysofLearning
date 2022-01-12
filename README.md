@@ -1042,7 +1042,7 @@ Date = 12/1/2022
 - [x] #try to do some manual recon on BugBounty program / JS recon
 - [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
 - [x] #try to read 1 intrigity-blog Bug-Bytes per day ✅
-	-https://blog.intigriti.com/2022/01/12/bug-bytes-154-url-parsing-confusion-forging-cookies-for-almost-100k-exploiting-impossible-pickle-deserialization/
+	- https://blog.intigriti.com/2022/01/12/bug-bytes-154-url-parsing-confusion-forging-cookies-for-almost-100k-exploiting-impossible-pickle-deserialization/
 		- what i found usefull for me
 			- https://matthewdf10.medium.com/so-you-want-to-use-the-aws-free-tier-2b2adac13952 {so-you-want-to-use-the-aws-free-tier}
 			- https://youtu.be/8MxpaxY2axo {HTTP Smuggling from inception to nowadays by Milan Charniak Red Teamer and Penetration Tester}
