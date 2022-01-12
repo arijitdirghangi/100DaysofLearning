@@ -1033,3 +1033,29 @@ Date - 11/1/2022
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 			
+Date = 12/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day ✅
+	-https://blog.intigriti.com/2022/01/12/bug-bytes-154-url-parsing-confusion-forging-cookies-for-almost-100k-exploiting-impossible-pickle-deserialization/
+		- what i found usefull for me
+			- https://matthewdf10.medium.com/so-you-want-to-use-the-aws-free-tier-2b2adac13952 {so-you-want-to-use-the-aws-free-tier}
+			- https://youtu.be/8MxpaxY2axo {HTTP Smuggling from inception to nowadays by Milan Charniak Red Teamer and Penetration Tester}
+			- https://servicenger.com/mobile/facebook-android-webview-vulnerability/ {Facebook-android-webview-vulnerability}
+			- https://twitter.com/snap_sec/status/1479030972263723015 {8 different techniques to Bypass Rate Limits}
+			- https://github.com/mikedesu/amass-setup {Amass-Setup}
+
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://ninadmathpati.com/2019/08/17/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/
+	- https://servicenger.com/mobile/facebook-android-webview-vulnerability/
+	- https://www.youtube.com/watch?v=jBf6i_B7fTw (Multi-host payloads in Burp Intruder)
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
