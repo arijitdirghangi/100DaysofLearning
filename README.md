@@ -1012,4 +1012,24 @@ Date - 10/1/2022
 	- Writing our own nuclei templete {https://youtu.be/vefj0tkTWL4}
 	
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+				
+Date - 11/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://medium.com/techiepedia/p5-to-p1-intresting-account-takeover-6e59b879494b (For me new ideas can be found)
+	- https://www.youtube.com/watch?v=kT_rhV8IpiA (PoC) (Idea same sceniro is different)
+	- https://hackerone.com/reports/727330
+	- https://docs.google.com/presentation/d/1QzBl3k3n2q44ULyfZgr_gPZexj8nF5vD8JrS5AUJRbs/edit#slide=id.ge3728174e8_0_23 (password reset slide by) 
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 			
