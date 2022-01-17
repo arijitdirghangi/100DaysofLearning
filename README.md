@@ -1128,7 +1128,7 @@ Date - 16/1/2022
 	- https://medium.com/@tameemkhalid786/playing-with-password-reset-function-9346bcd8e125
 	- https://medium.com/@novan.rmd/url-parameter-tampering-leads-to-unregistered-account-takeover-3c885f23e8c 
 	- https://medium.com/@Sm9l/bug-bounty-fingerprinting-204506945ab
-	- https://medium.com/@cybersrikanth/password-reset-functionality-for-devsec-e19fc84c35ae {This is realy awesome wirteup You can find devloper mindeset, you can get idea about when Devloper implement password-reset funcation what are possible mitake devloper can do. }
+	- https://medium.com/@cybersrikanth/password-reset-functionality-for-devsec-e19fc84c35ae {This is realy awesome wirteup You can find devloper mindeset, you can get idea about when Devloper implement password-reset funcation what are possible mistake devloper can do. }
 	- https://infosecwriteups.com/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572 {everyone must read this writeup you will be FUN} 
 		- NOTE. There could be token-validation BUTTT missing user-token validation.
 
