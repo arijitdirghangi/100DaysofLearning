@@ -1154,4 +1154,23 @@ Date - 17/1/2022
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
+Date - 18/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon ✅
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter ✅
+	- https://www.getrevue.co/profile/anugrahsr/issues/hacklearndaily-by-anugrah-sr-issue-15-979513
+
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://blog.yeswehack.com/yeswerhackers/pimpmyburp-pwnfox-autorize-find-idor/?utm_campaign=The%20Secure%20Edge%3A%20Daily%20Round-up%20of%20Infosec%20Blogs&utm_medium=email&utm_source=Revue%20newsletter { IDOR Guide }
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 				
