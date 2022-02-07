@@ -1246,5 +1246,76 @@ Date - 26/1/2022
 	- https://www.getrevue.co/profile/hetmehtaa/issues/the-secure-edge-daily-round-up-of-infosec-blogs-issue-58-994435?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Secure+Edge%3A+Daily+Round-up+of+Infosec+Blogs
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 27/1/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter ✅
+	- https://www.getrevue.co/profile/anugrahsr/issues/hacklearndaily-by-anugrah-sr-issue-16-992681
+		- https://twitter.com/h4x0r_dz/status/1442883431965335561?s=20 {usefull i found}
+		
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report ✅
+	- https://medium.com/mobis3c/deep-link-exploitation-introduction-open-unvalidated-redirection-b8344f00b17b
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date -  28/1/2022 - 31/1/2022				
+
+Playing Game and Doing livestreaming 😜			
+				
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+				
+Date - 1/2/2022
+				
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report
+	- https://www.p1boom.com/2022/02/top25-browser-extensions-for-hacker.htmlhttps://www.p1boom.com/2022/02/top25-browser-extensions-for-hacker.html
+	- https://0xblackbird.github.io/blog/post3
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date -  2/1/2022 - 4/1/2022 ++ 6/2/2022				
+
+Playing Game and Doing livestreaming 😜		
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+				
+Date - 5/2/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report
+	- https://www.getrevue.co/profile/hetmehtaa/issues/the-secure-edge-daily-round-up-of-infosec-blogs-issue-63-1005431?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Secure+Edge%3A+Daily+Round-up+of+Infosec+Blogs
+	- https://www.getrevue.co/profile/hetmehtaa/issues/the-secure-edge-daily-round-up-of-infosec-blogs-issue-70-1020733?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Secure+Edge%3A+Daily+Round-up+of+Infosec+Blogs 
+		- { Get started hacking Django based Application }
+		- { HTTP Request Smuggling }
+	- https://www.getrevue.co/profile/hetmehtaa/issues/the-secure-edge-daily-round-up-of-infosec-blogs-issue-71-1022598?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Secure+Edge%3A+Daily+Round-up+of+Infosec+Blogs
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
 				
