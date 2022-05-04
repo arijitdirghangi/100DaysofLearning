@@ -1371,6 +1371,23 @@ Date - 1/5/2022
 	
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 					
+Date - 3/5/2022
+
+- [x] #solve tryhackme room
+- [x] #read zseano print book
+- [x] #read firstblood1/2 Disclosed report
+- [x] #want to create some usefull tool (if possible)
+- [x] #try to do some manual recon on BugBounty program / JS recon
+- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
+- [x] #try to read 1 intrigity-blog Bug-Bytes per day
+- [x] #try to read payload artirst weekly blog 
+- [x] #try to read anurag sr news latter
+- [x] #try to daily hunt on "fastfoodhacking"
+- [x] #read disclosed report
+	- https://www.getrevue.co/profile/hetmehtaa/issues/the-secure-edge-daily-round-up-of-infosec-blogs-issue-78-1044058?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Secure+Edge%3A+Daily+Round-up+of+Infosec+Blogs
+		- Awesome year-wise collection of CVE PoCs [https://github.com/trickest/cve]
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
-				
+  				
 				
