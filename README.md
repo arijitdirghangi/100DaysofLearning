@@ -1320,34 +1320,13 @@ Date - 5/2/2022
 
 Date - 26/4/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
-- [x] #solving python problem
+- [x] #solving python problem ✅
 	- Print without b' prefix for bytes in Python 3 [https://stackoverflow.com/questions/16748083/print-without-b-prefix-for-bytes-in-python-3]
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
 Date - 30/4/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
 - [x] #read disclosed report ✅
 	- https://infosecwriteups.com/how-hackers-are-changing-lives-4659a834cb8b [how you can missing people]
 	- https://ashkan-ebtekari.medium.com/by-pass-two-factor-authentication-7c9ba9c27797				
@@ -1356,34 +1335,14 @@ Date - 30/4/2022
 				
 Date - 1/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- https://shreyaskoli.medium.com/ato-without-any-interaction-aws-cognito-misconfiguration-d690f4b3da11 [aws-cognito-misconfiguration or client side bypass]
 	
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 					
 Date - 3/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅ 
 	- https://www.getrevue.co/profile/hetmehtaa/issues/the-secure-edge-daily-round-up-of-infosec-blogs-issue-78-1044058?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Secure+Edge%3A+Daily+Round-up+of+Infosec+Blogs
 		- Awesome year-wise collection of CVE PoCs [https://github.com/trickest/cve]
 
@@ -1391,33 +1350,13 @@ Date - 3/5/2022
 				 				
 Date - 4/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- Learn with @j3ssiejjj - Automating Recon at scale using Osmedeus!! {https://youtu.be/ohi0fsLTesw}
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
 Date - 7/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
 - [x] #read disclosed report ✅
 	- working on python project 
 
@@ -1425,16 +1364,6 @@ Date - 7/5/2022
 				
 Date - 10/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
 - [x] #read disclosed report ✅
 	- revise old linux topic.
 	- Python Web Penetration Testing Cookbook [Page : 1-25]
@@ -1444,17 +1373,7 @@ Date - 10/5/2022
 				
 Date - 23/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- https://medium.com/@h4x0r_dz/vulnerability-in-paypal-worth-200000-bounty-attacker-can-steal-your-balance-by-one-click-2b358c1607cc
 	- solving basic linux questions
 
@@ -1462,17 +1381,7 @@ Date - 23/5/2022
 								
 Date - 27/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- revisting python old topic (Ex- Data types, funcation, Dict, Tuples etc... )
 
 
@@ -1481,17 +1390,7 @@ Date - 27/5/2022
 
 Date - 30/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- Learing about shared mail box in office 365 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
@@ -1499,34 +1398,14 @@ Date - 30/5/2022
 				
 Date - 31/5/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- Learning Security Concept & Management. {https://docs.google.com/presentation/d/1ASBtHhkq9zLv4G0tCZLDhbUhbYX6vXa1/edit?usp=sharing&ouid=108625976354777920719&rtpof=true&sd=true}
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 1/6/2022
 
-- [x] #solve tryhackme room
-- [x] #read zseano print book
-- [x] #read firstblood1/2 Disclosed report
-- [x] #want to create some usefull tool (if possible)
-- [x] #try to do some manual recon on BugBounty program / JS recon
-- [x] #leanring about things how web-application works on react-js,Node JS etc..  , Different type of CMS or Etc.. Etc..  
-- [x] #try to read 1 intrigity-blog Bug-Bytes per day
-- [x] #try to read payload artirst weekly blog 
-- [x] #try to read anurag sr news latter
-- [x] #try to daily hunt on "fastfoodhacking"
-- [x] #read disclosed report
+- [x] #read disclosed report ✅
 	- Learing Bankend Technology About (Ex- Virtualization,Hypervisor,DC,Dcoker)
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
