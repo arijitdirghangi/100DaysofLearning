@@ -1390,7 +1390,7 @@ Date - 27/5/2022
 
 Date - 30/5/2022
 
-- [x] #read disclosed report ✅
+- [x] #Today learn from jetking classes ✅
 	- Learing about shared mail box in office 365 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
@@ -1410,5 +1410,20 @@ Date - 1/6/2022
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
+Date - 2/6/2022
 
+- [x] #Today learn from jetking classes ✅
+	- Learning Office 365 {Teams application uses}
+		- how to schedule metting
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 6/6/2022
 				
+- [x] #Today learn from jetking classes ✅
+	- Learning About Onedrive.
+		- How to share any document from onedrive ?
+		- How to share document to a specific person ?
+		- How to share document to a specific Group ?
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
