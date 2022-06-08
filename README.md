@@ -1427,3 +1427,15 @@ Date - 6/6/2022
 		- How to share document to a specific Group ?
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+				
+Date - 7/6/2022
+
+- [x] #Today learn from jetking classes ✅
+	- Learning About Onedrive.
+		- Attend PD Class mock
+		- watching old classes video
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+				
+				
+				
