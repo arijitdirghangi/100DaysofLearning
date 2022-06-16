@@ -1436,5 +1436,21 @@ Date - 7/6/2022
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
+Date - 14/6/2022
+
+- [x] #Today learn from jetking classes ✅
+	- Configuring rip
+	- Learing About basic REQ,RES Header and etc.
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+				
+Date - 15/6/2022
+
+- [x] #Today learn from jetking classes ✅
+	- how to configure DHCP in router.
+	- How to configure FTP in windows system.
+				
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 				
 				
