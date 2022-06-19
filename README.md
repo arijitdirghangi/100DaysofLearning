@@ -1452,5 +1452,50 @@ Date - 15/6/2022
 				
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 16/6/2022
+
+- [x] #Today learn from jetking classes ✅
+	- RAID-0 & RAID-1 configuration
+	- How to create simple volume ?
+	- How to create spanned volume ?[Dynamic disk ea ai gulo create korte hoba]
+	- How to configure Raid-0 ?{dynamic volume}
+	- How to create RAID1 or Mirrored Volume ? 
+
+- [x] #Pratical Done ✅
+	- Configuring DHCP & RIP v1 in cisco packet tracer. 
+	- rip akta question jigasa korte hoba. ✅
+	- how to configure DHCP in router ✅
+
+- [x] #Dheeraj sir class
+	- aws ja part ta record hoyni seta dakte hoba ✅ - Date [16/6/2022] - Time [7:59]
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
+Date - 17/6/2022
+
+- [x] #Today learn from jetking classes ✅
+	- Create outlook & configured outlook account.
+	- Configured Telnet in router [Cisco Packet Tracer]
+	- Offline file sharing 
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 18/6/2022
+
+- [x] #Today learn from jetking classes ✅
+	- Create outlook & configured outlook account.
+	- Configured Telnet in router [Cisco Packet Tracer]
+	- Offline file sharing 
+
+- [x] #Pratical Done ✅
+	- Map network drive. 
+
+- [x] #Pending Task
+	- ajke [telnet] er command gulo lekha hoy ni video ta dekhe likte hoba.✅ - Date [18/6/2022] - Time [9:02]
+	- offline bapare sir ejta bolo sai video tau akbar dakte hoba. ✅ - Date [18/6/2022] - Time [9:30]
+
+- [x] #Dheeraj sir class
+	- How to Monitor Server,Serices,Docker Container Using Nagios. ✅
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
