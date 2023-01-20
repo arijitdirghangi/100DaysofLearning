@@ -1173,12 +1173,6 @@ Date - 18/1/2022
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-Date - 19/1/2022 - 21/1/2022
-
-Just Taking rest
-				
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
 Date - 22/1/2022
 
 - [x] #solve tryhackme room
@@ -1196,13 +1190,7 @@ Date - 22/1/2022
 	- https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-				
-Date - 23/1/2022
-
-Taking rest
-
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-												
+															
 Date - 24/1/2022
 
 - [x] #solve tryhackme room
@@ -1219,12 +1207,6 @@ Date - 24/1/2022
 - [x] #revise some network topic ✅
 	- IP Address
 	- Bridge,PoE(Power over Ethernet)
-
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-Date - 25/1/2022
-
-Doing Nothing.
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -1266,12 +1248,6 @@ Date - 27/1/2022
 	- https://medium.com/mobis3c/deep-link-exploitation-introduction-open-unvalidated-redirection-b8344f00b17b
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-Date -  28/1/2022 - 31/1/2022				
-
-Playing Game and Doing livestreaming 😜			
-				
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
 Date - 1/2/2022
 				
@@ -1290,12 +1266,7 @@ Date - 1/2/2022
 	- https://0xblackbird.github.io/blog/post3
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-Date -  2/1/2022 - 4/1/2022 ++ 6/2/2022				
-
-Playing Game and Doing livestreaming 😜		
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-				
+			
 Date - 5/2/2022
 
 - [x] #solve tryhackme room
@@ -1384,7 +1355,6 @@ Date - 27/5/2022
 - [x] #read disclosed report ✅
 	- revisting python old topic (Ex- Data types, funcation, Dict, Tuples etc... )
 
-
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
 
@@ -1467,7 +1437,7 @@ Date - 16/6/2022
 	- how to configure DHCP in router ✅
 
 - [x] #Dheeraj sir class
-	- aws ja part ta record hoyni seta dakte hoba ✅ - Date [16/6/2022] - Time [7:59]
+	- AWS Class Recording ✅ - Date [16/6/2022] - Time [7:59]
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 				
@@ -1498,4 +1468,15 @@ Date - 18/6/2022
 	- How to Monitor Server,Serices,Docker Container Using Nagios. ✅
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-				
+
+
+
+
+
+
+
+
+
+
+
+
